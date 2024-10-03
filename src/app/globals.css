@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color: black;
+    color: rgb(31, 44, 163);
+    border-radius: 200px;
+    height: 100vh;
+    
+}
+
+.timer{
+    text-align: center;
+    font-size: 3em;
+}
+
+.controls{
+    margin-top: 50px;
+}
+
+.h2{
+    font-size: 20px;
+    color: rgb(100, 90, 90);
+}
